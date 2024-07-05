@@ -1,4 +1,4 @@
-![images](https://github.com/RaghavArora-Developer/RaghavArora-Developer/assets/89024530/fd2fcd6b-a5ce-437c-97df-7a7b90b26dd8)<h1 align="center">Hi 👋, I'm Raghav Arora</h1>
+<h1 align="center">Hi 👋, I'm Raghav Arora</h1>
 <h3 align="center">16 Yr | Bug Bounty Hunter | Founder Of TEAM HAT | Frontend Developer | CTF PLAYER |Ethical Hacker | SEO | Wordpress Developer | Blogging |Deface 140+ Website</h3>
 <img align="right" src="https://i.redd.it/n8agw6z2smyb1.gif" alt="raghavarora-developer" /> </p>
 
