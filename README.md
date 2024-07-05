@@ -1,7 +1,6 @@
-<h1 align="center">Hi 👋, I'm Raghav Arora</h1>
+![images](https://github.com/RaghavArora-Developer/RaghavArora-Developer/assets/89024530/fd2fcd6b-a5ce-437c-97df-7a7b90b26dd8)<h1 align="center">Hi 👋, I'm Raghav Arora</h1>
 <h3 align="center">16 Yr | Bug Bounty Hunter | Founder Of TEAM HAT | Frontend Developer | CTF PLAYER |Ethical Hacker | SEO | Wordpress Developer | Blogging |Deface 140+ Website</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=raghavarora-developer&label=Profile%20views&color=0e75b6&style=flat" alt="raghavarora-developer" /> </p>
+<img align="right" src="https://i.redd.it/n8agw6z2smyb1.gif" alt="raghavarora-developer" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raghavarora-developer" alt="raghavarora-developer" /></a> </p>
 
